@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://survey-website-backend.onrender.com/api';
 const ELECTION_SURVEY_ID = 1;
 
 const politicalParties = [
